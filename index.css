@@ -5,7 +5,8 @@
 }
 
 body {
-    background-image: url(https://www.istockphoto.com/photos/beautiful-nature-scene);
+    background-image: url(https://www.istockphoto.com/photos/beautiful-nature-scene.jpg);
+    background-size: cover;
     background-position:center;
     background-repeat: no-repeat;
     height: 100vh;
